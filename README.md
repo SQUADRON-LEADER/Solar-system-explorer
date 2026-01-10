@@ -7,7 +7,6 @@
 This repository is suitable for **students, beginners, and space enthusiasts** who want to understand the structure and dynamics of the solar system.
 
 ---
-
 ## ✨ Features
 
 * 🪐 Interactive exploration of all major planets
@@ -110,4 +109,5 @@ If you like this project, please give it a ⭐ on GitHub to support learning and
 ---
 
 *Explore the universe, one planet at a time.* 🚀
+
 
