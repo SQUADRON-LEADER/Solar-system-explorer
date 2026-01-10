@@ -28,7 +28,6 @@ This repository is suitable for **students, beginners, and space enthusiasts** w
 ---
 
 ## 🛠️ Tech Stack
-
 * **Frontend:** HTML, CSS, JavaScript
 * **Visualization:** Canvas / SVG / Three.js (based on implementation)
 * **Deployment:** GitHub Pages or static hosting
@@ -109,5 +108,6 @@ If you like this project, please give it a ⭐ on GitHub to support learning and
 ---
 
 *Explore the universe, one planet at a time.* 🚀
+
 
 
