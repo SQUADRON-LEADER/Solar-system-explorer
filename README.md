@@ -102,8 +102,7 @@ GitHub: [https://github.com/SQUADRON-LEADER](https://github.com/SQUADRON-LEADER)
 
 ---
 ## ⭐ Support
-
 If you like this project, please give it a ⭐ on GitHub to support learning and open-source contributions.
-
 ---
 *Explore the universe, one planet at a time.* 🚀
+
