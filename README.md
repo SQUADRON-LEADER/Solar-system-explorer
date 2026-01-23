@@ -37,6 +37,7 @@ Designed for **students, beginners, and space enthusiasts**, this project blends
 <img width="1913" height="852" alt="Screenshot 2026-01-19 111308" src="https://github.com/user-attachments/assets/0d3dbfb9-3680-4f12-a810-6b2156b614e1" />
 <img width="1915" height="863" alt="Screenshot 2026-01-19 111323" src="https://github.com/user-attachments/assets/aa848ec1-b253-40b1-944c-1f82e9b2a1e5" />
 
+<img width="1918" height="827" alt="Screenshot 2026-01-19 111337" src="https://github.com/user-attachments/assets/7997f0e7-313a-48ad-b840-5b750f637b43" />
 
 * 🖥️ **Home / Solar System Overview**
 * 🪐 **Planet Detail View**
@@ -172,6 +173,7 @@ If you enjoyed exploring this project, give it a ⭐ on GitHub — it really hel
 ---
 
 ✨ *Learning space science doesn’t have to be boring — explore it interactively!* 🚀
+
 
 
 
